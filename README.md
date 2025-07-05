@@ -1,2 +1,55 @@
-# Cobblemon-Omega-Showdown
-Cobblemon Omega Showdown
+![](https://media.forgecdn.net/attachments/description/1189523/description_6488e172-95fe-46d0-b211-c47ba4ba1b76.png)
+# Cobblemon Omega Showdown
+
+增强原版Cobblemon玩法内容，基于宝可梦官方内容而制作
+添加来自中国本土创想的方可梦 命名为 Ω
+
+# 特色 / Features
+
+## 机制 / System
+
+### 初始 IVS
+为你的默认御三家宝可梦设置固定的 IVS 不再是随机数值，为联机/单机有着更好的公平体验。
+
+### 限制捕捉宝可梦最高等级
+仿止玩家捕捉到比当前水平高出太多的口袋妖怪。任何对比玩家当前队伍中最高等级的口袋妖怪高出 X 级的口袋妖怪的捕捉尝试都不会成功。
+如果玩家处于创造状态、正在使用 大师球 或目标 Pokemon 闪亮，则等级上限将被忽略！
+
+## 物品类 / Items
+
+### 银色瓶盖
+一个不知道从哪来的瓶盖，闪耀着银色的光芒。在钓鱼时，有 1/10 的机会也能获得一个瓶盖。单独使用这个瓶盖并没有太大用处，
+但如果将它与正确类型的果实一起制作，
+你可以根据下面的图表为瓶盖赋予一个属性。
+当使用带有属性的瓶盖在训练师的宝可梦身上时，
+它将把该属性的IV提升到最大（如果可能的话）。
+你可以在宝可梦列表中检查你的宝可梦的IV.
+
+| 物品颜色   | 统计 |
+|--------|----|
+| Black  | 攻击 |
+| Yellow | 防御 |
+| Red    | 血量 |
+| Blue   | 特攻 |
+| Green  | 特防 |
+| Pink   | 速度 |
+
+### 金色瓶盖
+一个美丽的瓶盖，散发着金色的光泽。
+当你钓鱼时，有 1/100 的机会还会获取一个金瓶盖。
+当将其用于训练师的宝可梦时，
+它会将该宝可梦的所有个体值提升到最大（如果可能的话）。
+
+### 树根
+在草丛中破坏时发现的常见根茎。
+在破坏草时，
+有1/10的几率获得干根。
+对宝可梦使用时，如果可能，
+将重置该宝可梦所有属性的努力值。
+提供与一根木棍相同的燃料量。
+
+## Dependencies
+
+Cobblemon [Modrinth](https://modrinth.com/mod/cobblemon) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cobblemon)
+
+Fabric Language Kotlin [Modrinth](https://modrinth.com/mod/fabric-language-kotlin) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin)
