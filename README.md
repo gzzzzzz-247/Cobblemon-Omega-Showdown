@@ -1,4 +1,4 @@
-![](https://media.forgecdn.net/attachments/description/1189523/description_6488e172-95fe-46d0-b211-c47ba4ba1b76.png)
+![](https://raw.githubusercontent.com/gzzzzzz-247/Cobblemon-Omega-Showdown/refs/heads/main/icon.png)
 # Cobblemon Omega Showdown
 
 增强原版Cobblemon玩法内容，基于宝可梦官方内容而制作
