@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/gzzzzzz-247/Cobblemon-Omega-Showdown/refs/heads/main/bg.png" />
 </p>
+
 # Cobblemon Omega Showdown
 
 <p align="center">
