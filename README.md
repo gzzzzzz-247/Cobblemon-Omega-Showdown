@@ -15,6 +15,10 @@
 
 # 特色 / Features
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gzzzzzz-247/Cobblemon-Omega-Showdown/refs/heads/main/bg.png" />
+</p>
+
 ## 机制 / System
 
 ### 初始 IVS
