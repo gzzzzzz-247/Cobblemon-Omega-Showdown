@@ -1,6 +1,12 @@
-![](https://raw.githubusercontent.com/gzzzzzz-247/Cobblemon-Omega-Showdown/refs/heads/main/icon.png)
+![](https://raw.githubusercontent.com/gzzzzzz-247/Cobblemon-Omega-Showdown/refs/heads/main/bg.png)
 # Cobblemon Omega Showdown
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gzzzzzz-247/Cobblemon-Omega-Showdown/refs/heads/main/icon.png" />
+</p>
+<p align="center">
+   Owener:Gzzzzzz247
+</p>
 增强原版Cobblemon玩法内容，基于宝可梦官方内容而制作
 添加来自中国本土创想的方可梦 命名为 Ω
 
