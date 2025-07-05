@@ -16,7 +16,7 @@
 # 预实现项目 / 画饼（
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gzzzzzz-247/Cobblemon-Omega-Showdown/refs/heads/main/bg.png" />
+  <img src="https://raw.githubusercontent.com/gzzzzzz-247/Cobblemon-Omega-Showdown/refs/heads/main/title.png" />
 </p>
 
 * 新进化道具 (α β γ Ω
@@ -31,7 +31,7 @@
 # 特色 / Features
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gzzzzzz-247/Cobblemon-Omega-Showdown/refs/heads/main/bg.png" />
+  <img src="https://raw.githubusercontent.com/gzzzzzz-247/Cobblemon-Omega-Showdown/refs/heads/main/title.png" />
 </p>
 
 ## 机制 / System
