@@ -102,11 +102,9 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/gzzzzzz-247/Cobblemon-Omega-Showdown/refs/heads/main/p1.png" height="385"/>
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/gzzzzzz-247/Cobblemon-Omega-Showdown/refs/heads/main/p2.png" height="385"/>
 </p>
+
 
 ## Dependencies
 
