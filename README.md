@@ -101,7 +101,11 @@
 进行治疗，打开PC，挑战道馆增加段位，传送竞技场，参与每日活动获得奖励，商店系统
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gzzzzzz-247/Cobblemon-Omega-Showdown/refs/heads/main/p1.png" height="185"/>
+  <img src="https://raw.githubusercontent.com/gzzzzzz-247/Cobblemon-Omega-Showdown/refs/heads/main/p1.png" height="385"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gzzzzzz-247/Cobblemon-Omega-Showdown/refs/heads/main/p2.png" height="385"/>
 </p>
 
 ## Dependencies
